@@ -1,0 +1,9 @@
+1.variables:La variables son palabras o espacios en donde podemos almacenar o guardar cualquier dato.
+2.strings:Los strings son un tipo de dato que se usa para referise a una cadena de caracteres.
+3.funcion:Una funcion es un proceso que se puede utilizar cuatas veces queramos siempre y cuando lo necesitemos,
+para esto ay que "llamarla"
+  3.1 argumento:Un argumento es el valor que se le da a una funcion para que realice su proceso.
+  3.2 return: La palabra return se refiere al resultado que nos dara la "funcion".
+4.Declaracion:Una declaracion es por asi decirlo una condicion que se presenta
+5.Valor Booleano:Un valor booleano se refiere al cumplimiento de un proceso dando como respues verdadero
+o falso dependiendo la situacion.
