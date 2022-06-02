@@ -1,0 +1,5 @@
+Ciclo For:Es un proceso que nosotros los progamadores realizamos para hacer tareas largas o repetitivas
+    de esta forma mejoramos nuestra productividad.
+& o "y - and":Es un operador o simbolo que usamos para decir que se tiene que cumplir algo "y" otra cosa.
+|| "o- or":Es otro operador o simbolo que usamos para decir que se tiene que cumplir algo "o" otra cosa.
+! "not-negacion":Es un simbolo que usamos para negar o decir lo contrario a algo.
